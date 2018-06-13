@@ -1,6 +1,6 @@
 # Quadcopter Controller
 
-Builded a quadcopter flying agent that learns to take off, hover and land using Reinforcement Learning
+Designed a quadcopter flying agent that learns to take off, hover and land using Reinforcement Learning
 
 ## Project Instructions
 
